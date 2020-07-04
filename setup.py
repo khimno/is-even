@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="is-even",
-    version="0.0.1",
+    version="0.0.2",
     author="khimno",
     author_email="khimnodev@gmail.com",
     description="Library to check if a given integer or string is an even number",
